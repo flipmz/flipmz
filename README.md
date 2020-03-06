@@ -1,2 +1,0 @@
-# flipmz
-Created with CodeSandbox
